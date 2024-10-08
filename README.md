@@ -5,7 +5,7 @@ Insights on Covid-19 in the United States of America between 2020 and 2022, look
 
 # Installation 
   1. Download and open us_covid.py
-  2. Download the main covid dataset, and extract us_covid_data.csv
+  2. Download the main covid dataset from the first link in the sources 
      a) Drag the file into your IDE and have the read_csv read in the dataset 
   4. Download the population dataset, and extract from state pop
      a) Find the file location for each of the xlsx files and paste it into the functions 
